@@ -595,19 +595,19 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Android: 
-    EmbeddedLinux: 
-    GameCoreXboxOne: 
-    Nintendo Switch: 
-    PS4: 
-    PS5: 
-    QNX: 
-    Stadia: 
-    Standalone: 
-    VisionOS: 
-    WebGL: 
-    XboxOne: 
-    tvOS: 
+    Android: ENTITAS_FAST_AND_UNSAFE
+    EmbeddedLinux: ENTITAS_FAST_AND_UNSAFE
+    GameCoreXboxOne: ENTITAS_FAST_AND_UNSAFE
+    Nintendo Switch: ENTITAS_FAST_AND_UNSAFE
+    PS4: ENTITAS_FAST_AND_UNSAFE
+    PS5: ENTITAS_FAST_AND_UNSAFE
+    QNX: ENTITAS_FAST_AND_UNSAFE
+    Stadia: ENTITAS_FAST_AND_UNSAFE
+    Standalone: ENTITAS_FAST_AND_UNSAFE
+    VisionOS: ENTITAS_FAST_AND_UNSAFE
+    WebGL: ENTITAS_FAST_AND_UNSAFE
+    XboxOne: ENTITAS_FAST_AND_UNSAFE
+    tvOS: ENTITAS_FAST_AND_UNSAFE
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
